@@ -1,2 +1,2 @@
 # Playwright_JS_BDD
-Playwright Javascript BDD 
+Playwright Javascript BDD example
